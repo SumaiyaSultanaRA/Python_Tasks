@@ -1,0 +1,44 @@
+Task1
+
+String is called a global datatype because you can define and print any type of data within the double quotes irrespective of if it is a int string float or boolean.
+
+
+Task 2
+
+#a = 9.01
+print (int(a))
+
+#b = 8.09
+print (str(a))
+
+#c = 7.9
+print(bool(c))
+
+#d=5
+print(bool(d))
+
+#e=9
+print(str(e))
+
+#f=4
+print(float(f))
+
+#string_bool="hello"
+print(bool(string_bool))
+
+#string_int="hi"
+print(int(string_int))
+
+#string_float="how are you"
+print(float(string_float))
+
+#variable1=true
+print(int(variable1))
+
+num=true
+print(str(num))
+
+h=true
+print(float(h))
+
+
